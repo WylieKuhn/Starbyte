@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Claira",
+    "pronouns": "She/Her",
+    "birthday": "Oct 10th",
+    "fan_name": "Floofs",
+    "about": "Fox yokai and quiet guardian of the Mofumori Forest!",
+    "social_media": {
+      "twitch": "https://www.twitch.tv/clairaclover/",
+      "youtube": "https://www.youtube.com/@clairaclover",
+      "x": "https://x.com/clairaclover"
+    }
+  },
+  {
+    "name": "Miyu",
+    "pronouns": "She/They",
+    "birthday": "Dec 21st",
+    "fan_name": "Brebies",
+    "about": "Angel Shiba Inu descended from the heavens to spread love and bread!",
+    "social_media": {
+      "twitch": "https://www.twitch.tv/miyuwanchan",
+      "youtube": "https://www.youtube.com/@miyuwanchan",
+      "x": "https://x.com/wanchanmiyu"
+    }
+  },
+  {
+    "name": "Xion",
+    "pronouns": "She/Her",
+    "birthday": "Aug 18th",
+    "fan_name": "Foxtatoes/Potato Battalion",
+    "about": "Potato Snackie Fox Idol! Prepare for some fun!",
+    "social_media": {
+      "twitch": "https://www.twitch.tv/xionfox",
+      "youtube": "https://www.youtube.com/channel/UC__tK1_DWMZHMNCFjadJIYA",
+      "x": "https://x.com/Xionfoxofficial"
+    }
+  },
+  {
+    "name": "Zachi",
+    "pronouns": "He/Him",
+    "birthday": "Mar 18th",
+    "fan_name": "Sparks",
+    "about": "Fun chaotic goat boi who's here to electrify you!",
+    "social_media": {
+      "twitch": "https://www.twitch.tv/zachibee",
+      "youtube": "https://www.youtube.com/@zachibee",
+      "x": "https://x.com/zachibee"
+    }
+  },
+  {
+    "name": "Oriel",
+    "pronouns": "He/Him",
+    "birthday": "Nov 8th",
+    "fan_name": "Billies",
+    "about": "Certified chill and funny Sky God who fell to the Earth!",
+    "social_media": {
+      "twitch": "https://www.twitch.tv/DazzlingOriel",
+      "youtube": "https://www.youtube.com/channel/UCXs5tLJWyPREM2AlymZCszw",
+      "x": "https://x.com/DazzlingOriel"
+    }
+  },
+  {
+    "name": "Shizuka",
+    "pronouns": "She/Her",
+    "birthday": "Dec 31st",
+    "fan_name": "Dwellers",
+    "about": "PREPARE FOR CHAOS! The hikikomori VTuber appears to challenge you!",
+    "social_media": {
+      "twitch": "https://www.twitch.tv/shizukach",
+      "youtube": "https://www.youtube.com/@HitorinoShizuka",
+      "x": "https://x.com/Shizuka_Ch"
+    }
+  }
+]
