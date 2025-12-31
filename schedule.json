@@ -60,13 +60,43 @@
     "talent_name": "Claira",
     "stream_link": "https://www.twitch.tv/clairaclover",
     "stream_start_datetime": "2026-01-03T20:30:00Z"
+  },
+
+  {
+    "talent_name": "Shizuka",
+    "stream_link": "https://www.twitch.tv/shizukach",
+    "stream_start_datetime": "2025-12-29T18:00:00Z"
+  },
+  {
+    "talent_name": "Shizuka",
+    "stream_link": "https://www.twitch.tv/shizukach",
+    "stream_start_datetime": "2025-12-31T17:00:00Z"
+  },
+  {
+    "talent_name": "Shizuka",
+    "stream_link": "https://www.twitch.tv/shizukach",
+    "stream_start_datetime": "2026-01-02T12:00:00Z"
+  },
+  {
+    "talent_name": "Shizuka",
+    "stream_link": "https://www.twitch.tv/shizukach",
+    "stream_start_datetime": "2026-01-03T18:00:00Z"
+  },
+
+  {
+    "talent_name": "Oriel",
+    "stream_link": "https://www.twitch.tv/DazzlingOriel",
+    "stream_start_datetime": "2025-12-30T12:00:00Z"
+  },
+  {
+    "talent_name": "Oriel",
+    "stream_link": "https://www.twitch.tv/DazzlingOriel",
+    "stream_start_datetime": "2025-12-31T11:00:00Z"
+  },
+  {
+      "talent_name": "Oriel",
+      "stream_link": "https://www.twitch.tv/DazzlingOriel",
+      "stream_start_datetime": "2026-01-01T13:00:00Z"
   }
-
-
-
-
-
-
-  
 
 ]
