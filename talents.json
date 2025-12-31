@@ -1,5 +1,16 @@
 [
   {
+    "name": "Broman",
+    "pronouns": "She/Her",
+    "birthday": "Oct 10th",
+    "fan_name": "Floofs",
+    "about": "Fox yokai and quiet guardian of the Mofumori Forest!",
+    "social_media": {
+      "twitch": "https://www.twitch.tv/clairaclover/",
+      "youtube": "https://www.youtube.com/@clairaclover",
+      "x": "https://x.com/clairaclover"
+    },
+  {
     "name": "Claira",
     "pronouns": "She/Her",
     "birthday": "Oct 10th",
